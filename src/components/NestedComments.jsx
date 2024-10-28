@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import UseCommentHook from "../hooks/UseCommentHook";
-import Comment from "./comment";
+import Comment from "./Comment";
 
 /* eslint-disable react/prop-types */
 const NestedComments = ({
